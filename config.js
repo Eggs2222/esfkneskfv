@@ -2,7 +2,7 @@ const config = {
   challenge: true,
   users: {
     // username: 'password', you can add multiple users.
-    EpikPro: 'ForSchool123',
+    Vaz: 'VazNex2',
   }
 }
 export default config
